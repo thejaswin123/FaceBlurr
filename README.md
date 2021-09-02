@@ -43,6 +43,3 @@ Clone the Repository and extract the files
 
 * Then ROI is inserted back into the image and blurred image is returned. 
 
-## Example Output
-
-![Blurredface](Faceblur.png)
